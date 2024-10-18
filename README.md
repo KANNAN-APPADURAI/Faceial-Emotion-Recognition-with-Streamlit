@@ -1,1 +1,1 @@
-# Faceial-Emotion-Recognition-with-Streamlit
+# Facial-Emotion-Recognition-with-Streamlit
